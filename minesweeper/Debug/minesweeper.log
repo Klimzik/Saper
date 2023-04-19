@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\matik\Desktop\minesweeper\main.cpp(58,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\matik\Desktop\minesweeper\main.cpp(102,77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\matik\Desktop\minesweeper\main.cpp(102,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\matik\Desktop\minesweeper\main.cpp(105,77): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\matik\Desktop\minesweeper\main.cpp(105,54): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\matik\Desktop\minesweeper\main.cpp(189,40): warning C4353: użyto niestandardowego rozszerzenia: stała 0 jako wyrażenie funkcyjne. Użyj zamiast tego funkcji wewnętrznej "__noop"
+  minesweeper.vcxproj -> C:\Users\matik\Desktop\minesweeper\Debug\minesweeper.exe
